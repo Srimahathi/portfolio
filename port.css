@@ -17,6 +17,7 @@ header {
     color: white;
     padding: 10px 0;
     text-align: center;
+    height:100px;
 }
 
 section {
@@ -25,7 +26,8 @@ section {
     background-color: white;
     border-radius: 8px;
 }
-
+h1{
+    color:white;
 h2 {
     text-align: left;
     color: #4122be;
